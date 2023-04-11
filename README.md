@@ -22,7 +22,7 @@
              
   ##
  
-<div> 
+<div align="center"> 
   <a target="_blank" href="https://www.instagram.com/vini_fritzen/"><img height="25" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=darkgreen"></a>
   <a target="_blank" href="https://www.facebook.com/vinicius.fritzen.7"><img height="25" src="https://img.shields.io/badge/-Facebook-%23E4405F?style=flat&logo=facebook&logoColor=white&color=darkorange"></a> 
   <a target="_blank" href="mailto:vini_bn@hotmail.com"><img height="25" src="https://img.shields.io/badge/-Outlook-%23E4405F?style=flat&logo=microsoftoutlook&logoColor=White&color=darkgreen"></a>
