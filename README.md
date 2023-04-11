@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=vini-fritzen&show_icons=true&count_private=true&theme=dark" />
+  <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=vini-fritzen&show_icons=true&count_private=true&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img  height= "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-fritzen&show_icons=true&count_private=true&theme=dark&layout=compact" />
+  <img  height= "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-fritzen&show_icons=true&count_private=true&theme=dark&layout=compact&hide_border=true" />
 </a>
 </div>
 
@@ -23,9 +23,9 @@
   ##
  
 <div> 
-  <a target="_blank" href="https://www.instagram.com/vini_fritzen/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=darkgreen"></a>
-  <a target="_blank" href="https://www.facebook.com/vinicius.fritzen.7"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=flat&logo=facebook&logoColor=white&color=darkorange"></a> 
-  <a target="_blank" href="mailto:vini_bn@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23E4405F?style=flat&logo=microsoftoutlook&logoColor=White&color=darkgreen"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/vinicius-fritzen-b345a9148/"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=flat&logo=linkedin&logoColor=white&color=darkorange"></a>
+  <a target="_blank" href="https://www.instagram.com/vini_fritzen/"><img height="20" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=darkgreen"></a>
+  <a target="_blank" href="https://www.facebook.com/vinicius.fritzen.7"><img height="20" src="https://img.shields.io/badge/-Facebook-%23E4405F?style=flat&logo=facebook&logoColor=white&color=darkorange"></a> 
+  <a target="_blank" href="mailto:vini_bn@hotmail.com"><img height="20" src="https://img.shields.io/badge/-Outlook-%23E4405F?style=flat&logo=microsoftoutlook&logoColor=White&color=darkgreen"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/vinicius-fritzen-b345a9148/"><img height="20" src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=flat&logo=linkedin&logoColor=white&color=darkorange"></a>
   
 </div>
