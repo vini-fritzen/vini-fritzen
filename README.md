@@ -25,7 +25,7 @@
 <div> 
   <a target="_blank" href="https://www.instagram.com/vini_fritzen/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=darkgreen"></a>
   <a target="_blank" href="https://www.facebook.com/vinicius.fritzen.7"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white&color=darkorange"></a> 
-  <a href = "mailto:vini_bn@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23E4405F?style=for-the-badge&logo=outlook&logoColor=white&color=darkgreen" target="_blank"></a>
+  <a href = "mailto:vini_bn@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23E4405F?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=darkgreen" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
