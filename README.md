@@ -23,9 +23,9 @@
   ##
  
 <div> 
-  <a target="_blank" href="https://www.instagram.com/vini_fritzen/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=darkgreen"></a>
-  <a target="_blank" href="https://www.facebook.com/vinicius.fritzen.7"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white&color=darkorange"></a> 
-  <a href = "mailto:vini_bn@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23E4405F?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=darkgreen" target="_blank"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/vinicius-fritzen-b345a9148/"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=darkorange"></a>
+  <a target="_blank" href="https://www.instagram.com/vini_fritzen/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=darkgreen"></a>
+  <a target="_blank" href="https://www.facebook.com/vinicius.fritzen.7"><img src="https://img.shields.io/badge/-Facebook-%23E4405F?style=flat&logo=facebook&logoColor=white&color=darkorange"></a> 
+  <a target="_blank" href="mailto:vini_bn@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23E4405F?style=flat&logo=microsoftoutlook&logoColor=White&color=darkgreen"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/vinicius-fritzen-b345a9148/"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=flat&logo=linkedin&logoColor=white&color=darkorange"></a>
   
 </div>
