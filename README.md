@@ -1,4 +1,4 @@
-### 😁 Ola, Sou Vinícius Fritzen, estudante de Engenharia da Computação!
+### 😁 Ola, Sou Vinícius Fritzen, Engenheiro de Computação!
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
